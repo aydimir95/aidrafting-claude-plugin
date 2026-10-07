@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aidrafting": {
+      "type": "http",
+      "url": "https://customers.aydrafting.com/mcp/claude"
+    }
+  }
+}

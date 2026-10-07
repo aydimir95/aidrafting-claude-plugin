@@ -1,0 +1,8 @@
+{
+  "name": "aidrafting",
+  "description": "AIDrafting plugins for working on Autodesk Revit models from Claude.",
+  "owner": { "name": "AIDrafting", "url": "https://www.aydrafting.com" },
+  "plugins": [
+    { "name": "aidrafting-browser", "source": "./" }
+  ]
+}
